@@ -243,3 +243,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+.classpath
+.project
+/DB_HW4/.settings/*.prefs
